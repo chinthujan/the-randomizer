@@ -6,3 +6,7 @@ This is a web page application that was created with the intention of having mul
 ## Roadmap (Coming soon)
 - Random number generator
 - Random word generator
+## Tech
+- HTML5
+- CSS3
+- JavaScript
