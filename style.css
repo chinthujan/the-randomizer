@@ -30,6 +30,12 @@ h3 {
     width: 750px;
 }
 
+#number1 {
+    color: orange;
+    font-size: 90px;
+    text-align: center;
+}
+
 textarea {
     border: none;
     display: block;

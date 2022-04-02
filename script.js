@@ -73,3 +73,7 @@ function unHighlightTag(tag) {
     tag.classList.remove('highlight')
 }
 
+function random()
+{
+document.getElementById("number1").innerHTML = Math.floor(Math.random() * 100);
+}

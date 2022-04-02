@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css" />
+        <title>Random Number Generator</title>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Random Number Generator</h1>
+            <h3>Clicking on the button labelled "Get Number" will generate a random number between 0 and 100.
+            <br>
+                (currently working on making the max number within the range user-defined)</h3>
+            <p id="number1"></p>
+            <p style="text-align: center;"><button id="button1" onclick="random();">Get Number</button></p>
+            <br><br>
+            <div id="reset">
+                <input type="reset" value="Reset" onClick="window.location.reload()">
+                <br><br>
+                <button onclick="location.href='index.html'">Home</button>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+    </html>
