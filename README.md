@@ -2,9 +2,9 @@
 This is a web page application that was created with the intention of having multiple styles of random generators in one location.
 ## Current Randomizers
 - Random choice selector (from a user-defined list)
->Currently working on this and am aiming to have a functional CSS animation to select the randomized word/option
-## Roadmap (Coming soon)
 - Random number generator
+>Currently generates a random number between 0 and 100. Working on making the maximum number a user-defined input.
+## Roadmap (Coming soon)
 - Random word generator
 ## Tech
 - HTML5
